@@ -1,8 +1,8 @@
-# Channel Channels HTTP Go Library
+# Webpubsub Channels HTTP Go Library
 
 [![Build Status](https://github.com/duolacloud/channel-go/workflows/Tests/badge.svg)](https://github.com/duolacloud/channel-go/actions?query=workflow%3ATests+branch%3Amaster) [![Coverage Status](https://coveralls.io/repos/github/duolacloud/channel-go/badge.svg?branch=master)](https://coveralls.io/github/duolacloud/channel-go?branch=master) [![Go Reference](https://pkg.go.dev/badge/github.com/duolacloud/channel-go/logo.svg)](https://pkg.go.dev/github.com/duolacloud/channel-go)
 
-The Golang library for interacting with the Channel Channels HTTP API.
+The Golang library for interacting with the Webpubsub Channels HTTP API.
 
 This package lets you trigger events to your client and query the state of your channels. When used with a server, you can validate Channels webhooks and authenticate `private-` or `presence-` channels.
 
